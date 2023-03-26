@@ -1,0 +1,29 @@
+/* body{
+    background-image: linear-gradient(to right, #2DFFF5, #FFF878);
+} */
+body{
+    background-image: linear-gradient(to right, #103ce7, #64e9ff);
+}
+.container{
+    margin-top: 150px;
+    margin-left: 40%;
+}
+
+input{
+    height: 35px;
+    width: 200px;
+    border-radius: 20px;
+}
+button{
+    height: 30px;
+    border-radius: 10px;
+}
+#img{
+    
+}
+#wtype{
+    margin-left: 10%;
+}
+.color{
+    color: azure;
+}
